@@ -210,3 +210,7 @@ __marimo__/
 coco_dataset/
 runs/
 *.pt
+
+# dataset
+dataset/
+coco_dataset/
